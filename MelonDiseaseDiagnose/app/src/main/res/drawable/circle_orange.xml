@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Warna latar kotak -->
+    <solid android:color="#FF9800" />
+
+    <!-- Radius sudut melengkung -->
+    <corners android:radius="12dp" />
+
+    <!-- garis tepi -->
+    <stroke
+        android:width="2dp"
+        android:color="#D3BD7D" />
+</shape>

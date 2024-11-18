@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Melon Disease Diagnose</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="list_penyakit">List Penyakit</string>
+</resources>
